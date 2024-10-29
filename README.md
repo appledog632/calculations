@@ -1,15 +1,22 @@
-**Girly Calculations 🎀**
-A cute, girly-themed calculator built with Python's tkinter library. 
-This calculator has a sleek white-and-pink design with white buttons and black borders, making it both functional and stylish. 
-It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+# Girly Calculations 🎀
 
-**Features**
-Playful UI: White and pink color theme with a fun, girly design.
+A cute, fun calculator built with Python's `tkinter` — because math is better when it's stylish! 💅
 
-Basic Operations: Supports addition, subtraction, multiplication, and division.
+## Features
+- 💖 **Pretty in Pink**: White and pink color scheme with black-outlined buttons.
+- ➕ **Basic Math**: Add, subtract, multiply, divide.
+- ❌ **Clear it up**: "C" button clears the display.
+- 🤖 **Smart**: Handles errors like a pro!
 
-Clear Button: Easily clear the display using the "C" button.
+## How to Run
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/yourusername/girly-calculations.git
+   ```
+2. **Run the app**:
+   ```bash
+   python calculator.py
+   ```
 
-Error Handling: Displays "Error" for invalid operations or incorrect inputs.
-
-Responsive Layout: Buttons and display are arranged in a user-friendly grid layout.
+## License
+MIT – Because sharing is caring! 💖
